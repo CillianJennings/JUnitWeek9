@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3b1d547-e31e-40e8-bea1-3069aa117f89" name="Changes" comment="Made a new project called Junit">
+    <list default="true" id="d3b1d547-e31e-40e8-bea1-3069aa117f89" name="Changes" comment="Added a test case for a multiply method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ie/atu/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ie/atu/CalculatorTest.java" afterDir="false" />
     </list>
@@ -84,6 +85,8 @@
       <list>
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="Application.Junit" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="Application.Junit" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682692609917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a test case for a multiply method">
+      <created>1682697563501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682697563501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Made a new project called Junit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made a new project called Junit" />
+    <MESSAGE value="Added a test case for a multiply method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a test case for a multiply method" />
   </component>
 </project>
